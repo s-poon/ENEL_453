@@ -1,0 +1,325 @@
+# Compile of averager.vhd was successful.
+# Compile of binary_bcd.vhd was successful.
+# Compile of movedecimal.vhd was successful.
+# Compile of mux2to1.vhd was successful.
+# Compile of PWM_DAC - alternative.vhd was successful.
+# Compile of PWM_DAC.vhd was successful.
+# Compile of registers.vhd was successful.
+# Compile of sevensegment.vhd was successful.
+# Compile of sevensegment_decoder.vhd was successful.
+# Compile of tb_Final.vhd failed with 1 errors.
+# Compile of tb_PWM_DAC.vhd was successful.
+# Compile of voltage2distance.vhd was successful.
+# Compile of voltage2distanceshort.vhd was successful.
+# Compile of voltmeter.vhd was successful.
+# 14 compiles, 1 failed with 1 error.
+# Compile of averager.vhd was successful.
+# Compile of binary_bcd.vhd was successful.
+# Compile of movedecimal.vhd was successful.
+# Compile of mux2to1.vhd was successful.
+# Compile of PWM_DAC - alternative.vhd was successful.
+# Compile of PWM_DAC.vhd was successful.
+# Compile of registers.vhd was successful.
+# Compile of sevensegment.vhd was successful.
+# Compile of sevensegment_decoder.vhd was successful.
+# Compile of tb_Final.vhd failed with 9 errors.
+# Compile of tb_PWM_DAC.vhd was successful.
+# Compile of voltage2distance.vhd was successful.
+# Compile of voltage2distanceshort.vhd was successful.
+# Compile of voltmeter.vhd was successful.
+# 14 compiles, 1 failed with 9 errors.
+# Compile of voltmeter.vhd was successful.
+# Compile of averager.vhd was successful.
+# Compile of binary_bcd.vhd was successful.
+# Compile of movedecimal.vhd was successful.
+# Compile of mux2to1.vhd was successful.
+# Compile of PWM_DAC - alternative.vhd was successful.
+# Compile of PWM_DAC.vhd was successful.
+# Compile of registers.vhd was successful.
+# Compile of sevensegment.vhd was successful.
+# Compile of sevensegment_decoder.vhd was successful.
+# Compile of tb_Final.vhd failed with 9 errors.
+# Compile of tb_PWM_DAC.vhd was successful.
+# Compile of voltage2distance.vhd was successful.
+# Compile of voltage2distanceshort.vhd was successful.
+# Compile of voltmeter.vhd was successful.
+# 14 compiles, 1 failed with 9 errors.
+# Compile of averager.vhd was successful.
+# Compile of binary_bcd.vhd was successful.
+# Compile of movedecimal.vhd was successful.
+# Compile of mux2to1.vhd was successful.
+# Compile of PWM_DAC - alternative.vhd was successful.
+# Compile of PWM_DAC.vhd was successful.
+# Compile of registers.vhd was successful.
+# Compile of sevensegment.vhd was successful.
+# Compile of sevensegment_decoder.vhd was successful.
+# Compile of tb_Final.vhd was successful.
+# Compile of tb_PWM_DAC.vhd was successful.
+# Compile of voltage2distance.vhd was successful.
+# Compile of voltage2distanceshort.vhd was successful.
+# Compile of voltmeter.vhd was successful.
+# 14 compiles, 0 failed with no errors.
+vsim -gui work.tb_pwm_dac
+# vsim -gui work.tb_pwm_dac 
+# Start time: 16:01:37 on Nov 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_pwm_dac(tb)
+# Loading work.pwm_dac(behavioral)
+# Load canceled
+vsim -gui work.tb_voltmeter_mux
+# End time: 16:04:03 on Nov 25,2021, Elapsed time: 0:02:26
+# Errors: 0, Warnings: 10
+# vsim -gui work.tb_voltmeter_mux 
+# Start time: 16:04:03 on Nov 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_voltmeter_mux(test)
+# Loading ieee.numeric_std(body)
+# Loading work.voltmeter(behavioral)
+# Loading work.pwm_dac(behavioral)
+# Loading work.movedecimal(behavior)
+# Loading work.voltage2distance(behavior)
+# Loading work.voltage2distanceshort(behavior)
+# Loading work.mux2to1(behavior)
+# Loading work.averager(rtl)
+# Loading work.registers(rtl)
+# Loading work.sevensegment(behavioral)
+# Loading work.sevensegment_decoder(behavioral)
+# ** Warning: (vsim-3473) Component instance "ADC_Conversion_ins : test_DE10_Lite" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut File: C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltmeter.vhd
+# Loading work.binary_bcd(behavior)
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_voltmeter_mux/uut/ARDUINO_IO(15 downto 2), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_voltmeter_mux/ARDUINO_IO(15 downto 2).
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_voltmeter_mux/uut/ARDUINO_IO(0), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_voltmeter_mux/ARDUINO_IO(0).
+add wave -position insertpoint sim:/tb_voltmeter_mux/uut/*
+run -all
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/distanceshort
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/distancelong
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/distanceshort
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/distancelong
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 10 ns  Iteration: 2  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 100 ns  Iteration: 2  Instance: /tb_voltmeter_mux/uut/dac
+vsim -gui work.tb_voltmeter_mux
+# End time: 16:05:43 on Nov 25,2021, Elapsed time: 0:01:40
+# Errors: 1, Warnings: 28
+# vsim -gui work.tb_voltmeter_mux 
+# Start time: 16:05:43 on Nov 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_voltmeter_mux(test)
+# Loading ieee.numeric_std(body)
+# Loading work.voltmeter(behavioral)
+# Loading work.pwm_dac(behavioral)
+# Loading work.movedecimal(behavior)
+# Loading work.voltage2distance(behavior)
+# Loading work.voltage2distanceshort(behavior)
+# Loading work.mux2to1(behavior)
+# Loading work.averager(rtl)
+# Loading work.registers(rtl)
+# Loading work.sevensegment(behavioral)
+# Loading work.sevensegment_decoder(behavioral)
+# ** Warning: (vsim-3473) Component instance "ADC_Conversion_ins : test_DE10_Lite" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut File: C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltmeter.vhd
+# Loading work.binary_bcd(behavior)
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_voltmeter_mux/uut/ARDUINO_IO(15 downto 2), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_voltmeter_mux/ARDUINO_IO(15 downto 2).
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_voltmeter_mux/uut/ARDUINO_IO(0), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_voltmeter_mux/ARDUINO_IO(0).
+add wave -position insertpoint  \
+sim:/tb_voltmeter_mux/ARDUINO_IO \
+sim:/tb_voltmeter_mux/HEX0 \
+sim:/tb_voltmeter_mux/HEX1 \
+sim:/tb_voltmeter_mux/HEX2 \
+sim:/tb_voltmeter_mux/HEX3 \
+sim:/tb_voltmeter_mux/HEX4 \
+sim:/tb_voltmeter_mux/HEX5
+run -all
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/distanceshort
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/distancelong
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/distancelong
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/distanceshort
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 10 ns  Iteration: 2  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 100 ns  Iteration: 2  Instance: /tb_voltmeter_mux/uut/dac
+run -all
+run -all
+vsim -gui work.tb_voltmeter_mux
+# End time: 16:07:52 on Nov 25,2021, Elapsed time: 0:02:09
+# Errors: 1, Warnings: 28
+# vsim -gui work.tb_voltmeter_mux 
+# Start time: 16:07:52 on Nov 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_voltmeter_mux(test)
+# Loading ieee.numeric_std(body)
+# Loading work.voltmeter(behavioral)
+# Loading work.pwm_dac(behavioral)
+# Loading work.movedecimal(behavior)
+# Loading work.voltage2distance(behavior)
+# Loading work.voltage2distanceshort(behavior)
+# Loading work.mux2to1(behavior)
+# Loading work.averager(rtl)
+# Loading work.registers(rtl)
+# Loading work.sevensegment(behavioral)
+# Loading work.sevensegment_decoder(behavioral)
+# ** Warning: (vsim-3473) Component instance "ADC_Conversion_ins : test_DE10_Lite" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut File: C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltmeter.vhd
+# Loading work.binary_bcd(behavior)
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_voltmeter_mux/uut/ARDUINO_IO(15 downto 2), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_voltmeter_mux/ARDUINO_IO(15 downto 2).
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_voltmeter_mux/uut/ARDUINO_IO(0), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_voltmeter_mux/ARDUINO_IO(0).
+add wave -position insertpoint sim:/tb_voltmeter_mux/uut/*
+run -all
+# ** Error: (vsim-86) Argument value -2147483648 is not in bounds of subtype NATURAL.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/ave
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/distanceshort
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/distancelong
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/distanceshort
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/distancelong
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 10 ns  Iteration: 2  Instance: /tb_voltmeter_mux/uut/dac
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 100 ns  Iteration: 2  Instance: /tb_voltmeter_mux/uut/dac
+# End time: 16:24:18 on Nov 25,2021, Elapsed time: 0:16:26
+# Errors: 1, Warnings: 28

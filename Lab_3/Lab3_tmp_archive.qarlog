@@ -1,0 +1,49 @@
+Quartus Prime Archive log --	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Lab3_tmp_archive.qarlog
+
+Archive:	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Lab3_tmp_archive.qar
+Date:		Thu Nov 25 14:40:36 2021
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/DE10_LITE.qsf
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/DE10_LITE.sdc
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Lab3.qpf
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Voltmeter.qsf
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Voltmeter_assignment_defaults.qdf
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_conversion.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/adc_qsys.cmp
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/adc_qsys.debuginfo
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/adc_qsys.qip
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/adc_qsys.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/adc_qsys_altpll_sys.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/adc_qsys_modular_adc_0.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_modular_adc_control.sdc
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_modular_adc_control.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_modular_adc_control_fsm.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_reset_controller.sdc
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_reset_controller.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/altera_reset_synchronizer.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/chsel_code_converter_sw_to_hw.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/adc_qsys/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/averager.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/binary_bcd.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/movedecimal.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/mux2to1.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/registers.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/sevensegment.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/sevensegment_decoder.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/voltage2distance.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/voltage2distanceshort.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/voltmeter.vhd
+	======= Total: 32 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Nov 25 14:40:38 2021
+Source archive file:	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Lab3_tmp_archive.qar
+Archive was extracted into	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/
+		 - successfully.

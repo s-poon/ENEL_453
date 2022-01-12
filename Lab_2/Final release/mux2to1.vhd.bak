@@ -1,0 +1,30 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity 2to1mux is
+
+ 
+port( 
+		input1 	: in std_logic_vector(11 downto 0);
+		input2 	: in std_logic_vector(11 downto 0);
+		control	: in std_logic;
+		output1	: out std_logic_vector(11 downto 0)	
+    );
+end 2to1mux;
+
+architecture BEHAVIOR of 2to1mux is
+begin
+	output <= 	input1 when control = '0'
+			else	input2 when control = '1'; 
+
+end;
+
+
+
+
+
+
+
+
+
+

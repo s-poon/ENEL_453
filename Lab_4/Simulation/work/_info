@@ -1,0 +1,685 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation
+Eaverager
+Z0 w1634678105
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 113
+Z4 dC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation
+Z5 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/averager.vhd
+Z6 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/averager.vhd
+l0
+L6 1
+VB8:2CDW`BR7l1OCmU>8;70
+!s100 SD0FhjE;VVh:AY`^Mm8L61
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1638476261
+!i10b 1
+Z9 !s108 1638476261.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/averager.vhd|
+Z11 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/averager.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 8 averager 0 22 B8:2CDW`BR7l1OCmU>8;70
+!i122 113
+l21
+L15 73
+VG;7@I7_amaWiWHS^mKDW43
+!s100 YnXhfMY^K8AFmglKzVX2T2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebinary_bcd
+Z14 w1636062415
+R1
+R2
+R3
+!i122 114
+R4
+Z15 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/binary_bcd.vhd
+Z16 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/binary_bcd.vhd
+l0
+L117 1
+VA90GJU[E^m4le?06ZNNlQ3
+!s100 ;D2:_RZSkd01<G86eJU:<2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/binary_bcd.vhd|
+Z18 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/binary_bcd.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 binary_bcd 0 22 A90GJU[E^m4le?06ZNNlQ3
+!i122 114
+l139
+L128 76
+V<`=lB@Z5EZPj>UB6R9PST0
+!s100 9lF308g32XAYD44ZI;WOE2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Edis2freq
+Z19 w1638475145
+R1
+R2
+R3
+!i122 125
+R4
+Z20 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2freq.vhd
+Z21 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2freq.vhd
+l0
+Z22 L24 1
+VmH2zD[?kHFKN0nJYo0?hz2
+!s100 f8?=fkobHAh_aH9D`K[8;1
+R7
+32
+Z23 !s110 1638476263
+!i10b 1
+Z24 !s108 1638476263.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2freq.vhd|
+Z26 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2freq.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 dis2freq 0 22 mH2zD[?kHFKN0nJYo0?hz2
+!i122 125
+l4149
+L32 4125
+V8Zfg^nkbkKZJP>CV?m[k73
+!s100 mUne<OY?hMUH>KaFNP7XR2
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+R13
+Emovedecimal
+Z27 w1637093349
+R2
+R3
+!i122 115
+R4
+Z28 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/movedecimal.vhd
+Z29 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/movedecimal.vhd
+l0
+L5 1
+VQC3F4HcR8dZM<A1O1b=hg0
+!s100 K2S^9[a7]?zNXe[?[@Lgh3
+R7
+32
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/movedecimal.vhd|
+Z31 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/movedecimal.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 11 movedecimal 0 22 QC3F4HcR8dZM<A1O1b=hg0
+!i122 115
+l23
+L15 39
+VTeK`@:;PXWgR^RmnDez[I0
+!s100 m05`0O8ne4mVS;F_RNCSi3
+R7
+32
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Emux2to1
+Z32 w1635972498
+R2
+R3
+!i122 116
+R4
+Z33 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/mux2to1.vhd
+Z34 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/mux2to1.vhd
+l0
+L4 1
+Vc>a]J:EENZJSid]C[ec4F0
+!s100 l0MUmOPeUj0=YD4Af4TYD0
+R7
+32
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/mux2to1.vhd|
+Z36 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/mux2to1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 7 mux2to1 0 22 c>a]J:EENZJSid]C[ec4F0
+!i122 116
+l16
+L15 6
+V8P^@chza=OCl2liZhB?OW3
+!s100 B5OS[MnJ8n7RBGnX:X:110
+R7
+32
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Epwm_dac
+Z37 w1638395817
+R1
+R2
+R3
+!i122 117
+R4
+Z38 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/PWM_DAC.vhd
+Z39 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/PWM_DAC.vhd
+l0
+L5 1
+VZk5hJo?H:S4lcE@Hf5he63
+!s100 7Vg9X=H6bHNfI;SCzA`5B3
+R7
+32
+Z40 !s110 1638476262
+!i10b 1
+R9
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/PWM_DAC.vhd|
+Z42 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/PWM_DAC.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 7 pwm_dac 0 22 Zk5hJo?H:S4lcE@Hf5he63
+!i122 117
+l19
+L14 34
+Vk?dCVaVbV`@JD`U8d^7PD0
+!s100 3Li8bWLL=C@e8AW<YXnK;2
+R7
+32
+R40
+!i10b 1
+R9
+R41
+R42
+!i113 1
+R12
+R13
+Eregisters
+Z43 w1635960980
+R2
+R3
+!i122 118
+R4
+Z44 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/registers.vhd
+Z45 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/registers.vhd
+l0
+L7 1
+VcEOA2KhSaPLRc<ZQ@`Q941
+!s100 M0C5b:CnFbFXB0<^nSI<S2
+R7
+32
+R40
+!i10b 1
+Z46 !s108 1638476262.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/registers.vhd|
+Z48 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/registers.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 9 registers 0 22 cEOA2KhSaPLRc<ZQ@`Q941
+!i122 118
+l21
+L20 14
+VP7AnOgIE<H`WcJ<I;d=Uj1
+!s100 ?lcJ1^4Sang9Rz8no`V3G1
+R7
+32
+R40
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R12
+R13
+Esevensegment
+Z49 w1636060383
+R2
+R3
+!i122 119
+R4
+Z50 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment.vhd
+Z51 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment.vhd
+l0
+L5 1
+V7imbj431LGmRnEaOHWLdG1
+!s100 c1?^NTAUJf4JfogR1]6MI2
+R7
+32
+R40
+!i10b 1
+R46
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment.vhd|
+Z53 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 12 sevensegment 0 22 7imbj431LGmRnEaOHWLdG1
+!i122 119
+l26
+L11 44
+V:ZPm>WB9WhRRHmA=PQYH32
+!s100 WKU9Bgh?f]fQ?Yo8Ia3QX2
+R7
+32
+R40
+!i10b 1
+R46
+R52
+R53
+!i113 1
+R12
+R13
+Esevensegment_decoder
+Z54 w1636959431
+R2
+R3
+!i122 120
+R4
+Z55 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment_decoder.vhd
+Z56 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment_decoder.vhd
+l0
+L5 1
+VVlW=l2M0eeEbg:dCz4:;@0
+!s100 nVLN]dm0afJ4i1K[@D_Do2
+R7
+32
+R40
+!i10b 1
+R46
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment_decoder.vhd|
+Z58 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/sevensegment_decoder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 20 sevensegment_decoder 0 22 VlW=l2M0eeEbg:dCz4:;@0
+!i122 120
+l14
+L13 29
+VC?9QIg:<Nc@7LA^50J:Ca0
+!s100 G[]U9WTmdjCPQ770:^Jn=3
+R7
+32
+R40
+!i10b 1
+R46
+R57
+R58
+!i113 1
+R12
+R13
+Etb_de10_lite
+Z59 w1634674507
+R1
+R2
+R3
+!i122 127
+R4
+Z60 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_ADC.vhd
+Z61 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_ADC.vhd
+l0
+L6 1
+VY5]65D9X8mPJOGE=9abzX2
+!s100 KkUeQ_Fa5[ZANn=i;=dOX1
+R7
+32
+R23
+!i10b 1
+R24
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_ADC.vhd|
+Z63 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_ADC.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 12 tb_de10_lite 0 22 Y5]65D9X8mPJOGE=9abzX2
+!i122 127
+l23
+L9 32
+V=h4ER@b@CEj4L2DPQ8e`m3
+!s100 flNeMVWed_Qj52F]ENMcd0
+R7
+32
+R23
+!i10b 1
+R24
+R62
+R63
+!i113 1
+R12
+R13
+Etb_pwm_dac
+Z64 w1637095961
+R1
+R2
+R3
+!i122 122
+R4
+Z65 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_PWM_DAC.vhd
+Z66 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_PWM_DAC.vhd
+l0
+L5 1
+Vl;EX0I;3n5c<9DH75KSk@3
+!s100 Ag5>UZIYcoPc?lPSJ_[6d0
+R7
+32
+R40
+!i10b 1
+R46
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_PWM_DAC.vhd|
+Z68 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/tb_PWM_DAC.vhd|
+!i113 1
+R12
+R13
+Atb
+R1
+R2
+R3
+DEx4 work 10 tb_pwm_dac 0 22 l;EX0I;3n5c<9DH75KSk@3
+!i122 122
+l23
+L8 57
+V3;`obe?i0V=T]^m;V2_eY2
+!s100 ?mVR0^Z3hY3Y=7X^HGN<j0
+R7
+32
+R40
+!i10b 1
+R46
+R67
+R68
+!i113 1
+R12
+R13
+Etb_voltmeter_mux
+Z69 w1638244773
+R2
+R3
+!i122 121
+R4
+Z70 8C:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\tb_Final.vhd
+Z71 FC:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\tb_Final.vhd
+l0
+L4 1
+V1^OKSY;4hnL:ZmW3k^?G61
+!s100 bAbc2LAci85ceAzR]>>SY2
+R7
+32
+R40
+!i10b 1
+R46
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\tb_Final.vhd|
+Z73 !s107 C:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\tb_Final.vhd|
+!i113 1
+R12
+R13
+Atest
+R2
+R3
+DEx4 work 16 tb_voltmeter_mux 0 22 1^OKSY;4hnL:ZmW3k^?G61
+!i122 121
+l33
+L8 71
+Vb7IPoXKACNlKY=izhW0aj3
+!s100 Eea0^mBLR>14ULWa;a6Z11
+R7
+32
+R40
+!i10b 1
+R46
+R72
+R73
+!i113 1
+R12
+R13
+Etest_de10_lite
+R59
+R2
+R3
+!i122 128
+R4
+Z74 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/test_ADC.vhd
+Z75 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/test_ADC.vhd
+l0
+L6 1
+VV@Q5GZFH]EZ[NWnbbL5E<1
+!s100 72N:e;ZbWmel4[3]E_PHT0
+R7
+32
+R23
+!i10b 1
+R24
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/test_ADC.vhd|
+!s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/test_ADC.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 14 test_de10_lite 0 22 V@Q5GZFH]EZ[NWnbbL5E<1
+!i122 128
+l15
+L12 60
+VA8<BNdU5n;R9o1]o8No]E3
+!s100 FeHTfnb>k6a0V3LN0cg8b1
+R7
+32
+R23
+!i10b 1
+R24
+R76
+Z77 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/test_ADC.vhd|
+!i113 1
+R12
+R13
+Evoltage2distance
+Z78 w1637193013
+R1
+R2
+R3
+!i122 123
+R4
+Z79 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distance.vhd
+Z80 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distance.vhd
+l0
+R22
+VfL]0H:>Wh9PbQDnGnld?c2
+!s100 >O^l<??9^SUPcE>=h0gaY3
+R7
+32
+R40
+!i10b 1
+R46
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distance.vhd|
+Z82 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distance.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 16 voltage2distance 0 22 fL]0H:>Wh9PbQDnGnld?c2
+!i122 123
+l4147
+L32 4123
+V6PW:A50>^XW^ckk30OdSC0
+!s100 N?SNFV?U8bof:45;bh`3i1
+R7
+32
+R40
+!i10b 1
+R46
+R81
+R82
+!i113 1
+R12
+R13
+Evoltage2distanceshort
+Z83 w1637194372
+R1
+R2
+R3
+!i122 124
+R4
+Z84 8C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distanceshort.vhd
+Z85 FC:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distanceshort.vhd
+l0
+R22
+Vo03E^nbcP3I?g2a5l<Ie31
+!s100 ^n;I64:1a:fJnzAV_7bd@1
+R7
+32
+R23
+!i10b 1
+R24
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distanceshort.vhd|
+Z87 !s107 C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_4/Simulation/voltage2distanceshort.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 21 voltage2distanceshort 0 22 o03E^nbcP3I?g2a5l<Ie31
+!i122 124
+l4148
+L32 4124
+V^_Ee=3<_SdFN6E<[M9MEN0
+!s100 :Cz[Oj@YV9A[lCaV8:N1=0
+R7
+32
+R23
+!i10b 1
+R24
+R86
+R87
+!i113 1
+R12
+R13
+Evoltmeter
+Z88 w1638475600
+R1
+R2
+R3
+!i122 126
+R4
+Z89 8C:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\voltmeter.vhd
+Z90 FC:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\voltmeter.vhd
+l0
+L5 1
+V]GImn8<IMmm`]1W3OM2410
+!s100 o4A[Fi^IobTmTHBJH1fze0
+R7
+32
+R23
+!i10b 1
+R24
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\voltmeter.vhd|
+Z92 !s107 C:\Users\Me\OneDrive\Documents\Year_3_ENEL\ENEL453\Lab_4\Simulation\voltmeter.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 9 voltmeter 0 22 ]GImn8<IMmm`]1W3OM2410
+!i122 126
+l140
+L16 281
+V=@[RBV0bDGLD92VRU^I4W1
+!s100 ZSLU4RLT:HDfhaiYnz>8<3
+R7
+32
+R23
+!i10b 1
+R24
+R91
+R92
+!i113 1
+R12
+R13

@@ -1,0 +1,511 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Eaverager
+Z0 w1634674505
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 192
+Z4 dC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation
+Z5 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/averager.vhd
+Z6 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/averager.vhd
+l0
+L6 1
+VB8:2CDW`BR7l1OCmU>8;70
+!s100 SD0FhjE;VVh:AY`^Mm8L61
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1635960796
+!i10b 1
+Z9 !s108 1635960796.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/averager.vhd|
+Z11 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/averager.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 8 averager 0 22 B8:2CDW`BR7l1OCmU>8;70
+!i122 192
+l21
+L15 73
+VG;7@I7_amaWiWHS^mKDW43
+!s100 YnXhfMY^K8AFmglKzVX2T2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ebinary_bcd
+R0
+R1
+R2
+R3
+!i122 193
+R4
+Z14 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/binary_bcd.vhd
+Z15 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/binary_bcd.vhd
+l0
+L8 1
+Vo<z`d6o]a?hb2:1^mkKIJ0
+!s100 Ai7<aVU>PmVj]f3eOfUVA0
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/binary_bcd.vhd|
+Z17 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/binary_bcd.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 binary_bcd 0 22 o<z`d6o]a?hb2:1^mkKIJ0
+!i122 193
+l30
+L19 76
+VD;;?JKhcFn293?b44B]hE0
+!s100 VS>UdhPb1_VAG?=`hPclj3
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 1
+R12
+R13
+Emux2to1
+Z18 w1634838283
+R2
+R3
+!i122 198
+R4
+Z19 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/2to1mux.vhd
+Z20 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/2to1mux.vhd
+l0
+L4 1
+Vj_RAQDWK8do=bTjI[592e2
+!s100 :Yh4c=lWb27:aUO;7ooGW3
+R7
+32
+Z21 !s110 1635960797
+!i10b 1
+Z22 !s108 1635960797.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/2to1mux.vhd|
+Z24 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/2to1mux.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 7 mux2to1 0 22 j_RAQDWK8do=bTjI[592e2
+!i122 198
+l14
+L13 6
+V>2cV[6>7DQ@U8fh@idSBR2
+!s100 LFbOdO5=WZEDE[jF?`4I80
+R7
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R12
+R13
+Eregisters
+R0
+R2
+R3
+!i122 194
+R4
+Z25 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/registers.vhd
+Z26 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/registers.vhd
+l0
+L4 1
+Voi=cDXg^hG:lDnFXRmWGZ3
+!s100 QTc_J_@loN^G6JbG4TBe_1
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/registers.vhd|
+Z28 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/registers.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 9 registers 0 22 oi=cDXg^hG:lDnFXRmWGZ3
+!i122 194
+l18
+L17 15
+VPekQcjKOj2ehDXIQNC9^91
+!s100 3^K2_j=ic2=an>bR28X3Y2
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Esevensegment
+R0
+R2
+R3
+!i122 195
+R4
+Z29 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment.vhd
+Z30 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment.vhd
+l0
+L5 1
+VFQL0l=JL^=MaiIUn`WdFb1
+!s100 FAQQnV:QmAocX2NB>i[z<3
+R7
+32
+R21
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment.vhd|
+Z32 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 12 sevensegment 0 22 FQL0l=JL^=MaiIUn`WdFb1
+!i122 195
+l20
+L11 44
+V2F^Fcf9gjzodgkg_]691i2
+!s100 RiGS?:ZGQAlZ5UmR<S:Kz0
+R7
+32
+R21
+!i10b 1
+R9
+R31
+R32
+!i113 1
+R12
+R13
+Esevensegment_decoder
+R0
+R2
+R3
+!i122 196
+R4
+Z33 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment_decoder.vhd
+Z34 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment_decoder.vhd
+l0
+L5 1
+VVlW=l2M0eeEbg:dCz4:;@0
+!s100 nVLN]dm0afJ4i1K[@D_Do2
+R7
+32
+R21
+!i10b 1
+R22
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment_decoder.vhd|
+Z36 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/SevenSegment_decoder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 20 sevensegment_decoder 0 22 VlW=l2M0eeEbg:dCz4:;@0
+!i122 196
+l14
+L13 29
+VC?9QIg:<Nc@7LA^50J:Ca0
+!s100 G[]U9WTmdjCPQ770:^Jn=3
+R7
+32
+R21
+!i10b 1
+R22
+R35
+R36
+!i113 1
+R12
+R13
+Etb_de10_lite
+Z37 w1634674507
+R1
+R2
+R3
+!i122 190
+R4
+Z38 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/tb_ADC.vhd
+Z39 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/tb_ADC.vhd
+l0
+L6 1
+VY5]65D9X8mPJOGE=9abzX2
+!s100 KkUeQ_Fa5[ZANn=i;=dOX1
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/tb_ADC.vhd|
+Z41 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/tb_ADC.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 12 tb_de10_lite 0 22 Y5]65D9X8mPJOGE=9abzX2
+!i122 190
+l23
+L9 32
+V=h4ER@b@CEj4L2DPQ8e`m3
+!s100 flNeMVWed_Qj52F]ENMcd0
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Etb_mux
+Z42 w1634851017
+R2
+R3
+!i122 199
+R4
+Z43 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_mux.vhd
+Z44 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_mux.vhd
+l0
+L4 1
+V>ihlJbfoMSn:XcN<9i_7A3
+!s100 mTI^C8=<=jH96H8S]X4K92
+R7
+32
+R21
+!i10b 1
+R22
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_mux.vhd|
+Z46 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_mux.vhd|
+!i113 1
+R12
+R13
+Atest
+R2
+R3
+Z47 DEx4 work 6 tb_mux 0 22 >ihlJbfoMSn:XcN<9i_7A3
+!i122 199
+l27
+Z48 L8 47
+Z49 V5[g=D13DBZ6`h_EUW0VAf2
+Z50 !s100 9z73FSHnjN60LIj7hFT182
+R7
+32
+R21
+!i10b 1
+R22
+R45
+R46
+!i113 1
+R12
+R13
+Etb_voltmeter
+Z51 w1634762458
+R2
+R3
+!i122 191
+R4
+Z52 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter.vhd
+Z53 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter.vhd
+l0
+L4 1
+VlAEXoQ@?i7mazKXLZ`k452
+!s100 R6TG4b=iU>6MGBS[Kd9>o1
+R7
+32
+R8
+!i10b 1
+R9
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter.vhd|
+Z55 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter.vhd|
+!i113 1
+R12
+R13
+Atest
+R2
+R3
+DEx4 work 12 tb_voltmeter 0 22 lAEXoQ@?i7mazKXLZ`k452
+!i122 191
+l27
+L8 54
+VDcKAIBkG;e[TiSYF4Z[fo2
+!s100 I65Q`oXEMSdiS`==:Tg3Z2
+R7
+32
+R8
+!i10b 1
+R9
+R54
+R55
+!i113 1
+R12
+R13
+Etb_voltmeter_mux
+Z56 w1634836102
+R2
+R3
+!i122 197
+R4
+Z57 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter_mux.vhd
+Z58 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter_mux.vhd
+l0
+L4 1
+V1^OKSY;4hnL:ZmW3k^?G61
+!s100 bAbc2LAci85ceAzR]>>SY2
+R7
+32
+R21
+!i10b 1
+R22
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter_mux.vhd|
+Z60 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/tb_voltmeter_mux.vhd|
+!i113 1
+R12
+R13
+Atest
+R2
+R3
+DEx4 work 16 tb_voltmeter_mux 0 22 1^OKSY;4hnL:ZmW3k^?G61
+!i122 197
+l28
+L8 65
+V=7oSCfkgl?LUU]^OCoC`B0
+!s100 lGYN0VZdl>8gNi5S1G=nA1
+R7
+32
+R21
+!i10b 1
+R22
+R59
+R60
+!i113 1
+R12
+R13
+Etest_de10_lite
+R37
+R2
+R3
+!i122 189
+R4
+Z61 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/test_ADC.vhd
+Z62 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/test_ADC.vhd
+l0
+L6 1
+VV@Q5GZFH]EZ[NWnbbL5E<1
+!s100 72N:e;ZbWmel4[3]E_PHT0
+R7
+32
+R8
+!i10b 1
+R9
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/test_ADC.vhd|
+Z64 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/Simulation/test_ADC.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 14 test_de10_lite 0 22 V@Q5GZFH]EZ[NWnbbL5E<1
+!i122 189
+l15
+L12 60
+VA8<BNdU5n;R9o1]o8No]E3
+!s100 FeHTfnb>k6a0V3LN0cg8b1
+R7
+32
+R8
+!i10b 1
+R9
+R63
+R64
+!i113 1
+R12
+R13
+Evoltmeter
+Z65 w1634853671
+R1
+R2
+R3
+!i122 188
+R4
+Z66 8C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/voltmeter.vhd
+Z67 FC:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/voltmeter.vhd
+l0
+L5 1
+V5niH6gJ1Uc@Z:OI@<54kS0
+!s100 KQja:NQf<ENaILEeJ?@<g1
+R7
+32
+R8
+!i10b 1
+R9
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/voltmeter.vhd|
+Z69 !s107 C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_2/Final release/voltmeter.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 9 voltmeter 0 22 5niH6gJ1Uc@Z:OI@<54kS0
+!i122 188
+l83
+L15 170
+VED1Y;;aPcVfc:cU4z<mn73
+!s100 QIKRc?`6`>JXVNH87C;dB3
+R7
+32
+R8
+!i10b 1
+R9
+R68
+R69
+!i113 1
+R12
+R13

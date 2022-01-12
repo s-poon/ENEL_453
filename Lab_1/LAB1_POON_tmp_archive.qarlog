@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/LAB1_POON_tmp_archive.qarlog
+
+Archive:	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/LAB1_POON_tmp_archive.qar
+Date:		Thu Oct 07 22:23:02 2021
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/DE10_LITE.sdc
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/LAB1_POON.qpf
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/switch_logic.qsf
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/switch_logic.vhd
+C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/switch_logic_assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Oct 07 22:23:04 2021
+Source archive file:	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Labs/LAB1_POON_tmp_archive.qar
+Archive was extracted into	C:/Users/steve/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_1/
+		 - successfully.

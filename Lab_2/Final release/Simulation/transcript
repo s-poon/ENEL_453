@@ -1,0 +1,13 @@
+# Compile of voltmeter.vhd was successful.
+# Compile of test_ADC.vhd was successful.
+# Compile of tb_ADC.vhd was successful with warnings.
+# Compile of tb_voltmeter.vhd was successful with warnings.
+# Compile of averager.vhd was successful.
+# Compile of binary_bcd.vhd was successful.
+# Compile of registers.vhd was successful.
+# Compile of SevenSegment.vhd was successful.
+# Compile of SevenSegment_decoder.vhd was successful.
+# Compile of tb_voltmeter_mux.vhd was successful with warnings.
+# Compile of 2to1mux.vhd was successful.
+# Compile of tb_mux.vhd was successful.
+# 12 compiles, 0 failed with no errors.

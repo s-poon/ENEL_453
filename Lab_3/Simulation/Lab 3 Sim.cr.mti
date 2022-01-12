@@ -1,0 +1,129 @@
+C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/movedecimal.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/movedecimal.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity movedecimal
+-- Compiling architecture behavior of movedecimal
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_mux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_mux
+-- Compiling architecture test of tb_mux
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/voltage2distanceshort.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/voltage2distanceshort.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity voltage2distanceshort
+-- Compiling architecture behavior of voltage2distanceshort
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/mux2to1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/mux2to1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1
+-- Compiling architecture BEHAVIOR of mux2to1
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_voltmeter_mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_voltmeter_mux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_voltmeter_mux
+-- Compiling architecture test of tb_voltmeter_mux
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/sevensegment_decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/sevensegment_decoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SevenSegment_decoder
+-- Compiling architecture Behavioral of SevenSegment_decoder
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_ADC.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_ADC.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_DE10_Lite
+-- Compiling architecture Behavioral of tb_DE10_Lite
+** Warning: C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_ADC.vhd(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/test_ADC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/test_ADC.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_DE10_Lite
+-- Compiling architecture behavior of test_DE10_Lite
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_voltmeter.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_voltmeter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_voltmeter
+-- Compiling architecture test of tb_voltmeter
+** Warning: C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/tb_voltmeter.vhd(16): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/voltage2distance.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/voltage2distance.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity voltage2distance
+-- Compiling architecture behavior of voltage2distance
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/registers.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/registers.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registers
+-- Compiling architecture rtl of registers
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/voltmeter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/voltmeter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Voltmeter
+-- Compiling architecture Behavioral of Voltmeter
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/sevensegment.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/sevensegment.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SevenSegment
+-- Compiling architecture Behavioral of SevenSegment
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/binary_bcd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/binary_bcd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity binary_bcd
+-- Compiling architecture behavior of binary_bcd
+
+} {} {}} C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/averager.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Me/OneDrive/Documents/Year_3_ENEL/ENEL453/Lab_3/Simulation/averager.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity averager
+-- Compiling architecture rtl of averager
+
+} {} {}}
